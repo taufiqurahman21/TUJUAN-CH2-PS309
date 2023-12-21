@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="com_google_android_gms_fonts_certs">
+        <item>@array/com_google_android_gms_fonts_certs_dev</item>
+        <item>@array/com_google_android_gms_fonts_certs_prod</item>
+    </array>
+    <string-array name="com_google_android_gms_fonts_certs_dev">
+        <item>
+            MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTAeFw0wODA0MTUyMzM2NTZaFw0zNTA5MDEyMzM2NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBANbOLggKv+IxTdGNs8/TGFy0PTP6DHThvbbR24kT9ixcOd9W+EaBPWW+wPPKQmsHxajtWjmQwWfna8mZuSeJS48LIgAZlKkpFeVyxW0qMBujb8X8ETrWy550NaFtI6t9+u7hZeTfHwqNvacKhp1RbE6dBRGWynwMVX8XW8N1+UjFaq6GCJukT4qmpN2afb8sCjUigq0GuMwYXrFVee74bQgLHWGJwPmvmLHC69EH6kWr22ijx4OKXlSIx2xT1AsSHee70w5iDBiK4aph27yH3TxkXy9V89TDdexAcKk/cVHYNnDBapcavl7y0RiQ4biu8ymM8Ga/nmzhRKya6G0cGw8CAQOjgfwwgfkwHQYDVR0OBBYEFI0cxb6VTEM8YYY6FbBMvAPyT+CyMIHJBgNVHSMEgcEwgb6AFI0cxb6VTEM8YYY6FbBMvAPyT+CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbYIJANWFuGx90071MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEEBQADggEBABnTDPEF+3iSP0wNfdIjIz1AlnrPzgAIHVvXxunW7SBrDhEglQZBbKJEk5kT0mtKoOD1JMrSu1xuTKEBahWRbqHsXclaXjoBADb0kkjVEJu/Lh5hgYZnOjvlba8Ld7HCKePCVePoTJBdI4fvugnL8TsgK05aIskyY0hKI9L8KfqfGTl1lzOv2KoWD0KWwtAWPoGChZxmQ+nBli+gwYMzM1vAkP+aayLe0a1EQimlOalO762r0GXO0ks+UeXde2Z4e+8S/pf7pITEI/tP+MxJTALw9QUWEv9lKTk+jkbqxbsh8nfBUapfKqYn0eidpwq2AzVp3juYl7//fKnaPhJD9gs=
+        </item>
+    </string-array>
+    <string-array name="com_google_android_gms_fonts_certs_prod">
+        <item>
+            MIIEQzCCAyugAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDAeFw0wODA4MjEyMzEzMzRaFw0zNjAxMDcyMzEzMzRaMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBAKtWLgDYO6IIrgqWbxJOKdoR8qtW0I9Y4sypEwPpt1TTcvZApxsdyxMJZ2JORland2qSGT2y5b+3JKkedxiLDmpHpDsz2WCbdxgxRczfey5YZnTJ4VZbH0xqWVW/8lGmPav5xVwnIiJS6HXk+BVKZF+JcWjAsb/GEuq/eFdpuzSqeYTcfi6idkyugwfYwXFU1+5fZKUaRKYCwkkFQVfcAs1fXA5V+++FGfvjJ/CxURaSxaBvGdGDhfXE28LWuT9ozCl5xw4Yq5OGazvV24mZVSoOO0yZ31j7kYvtwYK6NeADwbSxDdJEqO4k//0zOHKrUiGYXtqw/A0LFFtqoZKFjnkCAQOjgdkwgdYwHQYDVR0OBBYEFMd9jMIhF1Ylmn/Tgt9r45jk14alMIGmBgNVHSMEgZ4wgZuAFMd9jMIhF1Ylmn/Tgt9r45jk14aloXikdjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLR29vZ2xlIEluYy4xEDAOBgNVBAsTB0FuZHJvaWQxEDAOBgNVBAMTB0FuZHJvaWSCCQDC4IdGZEowjTAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4IBAQBt0lLO74UwLDYKqs6Tm8/yzKkEu116FmH4rkaymUIE0P9KaMftGlMexFlaYjzmB2OxZyl6euNXEsQH8gjwyxCUKRJNexBiGcCEyj6z+a1fuHHvkiaai+KL8W1EyNmgjmyy8AW7P+LLlkR+ho5zEHatRbM/YAnqGcFh5iZBqpknHf1SKMXFh4dd239FJ1jWYfbMDMy3NS5CTMQ2XFI1MvcyUTdZPErjQfTbQe3aDQsQcafEQPD+nqActifKZ0Np0IS9L9kR/wbNvyz6ENwPiTrjV2KRkEjH78ZMcUQXg0L3BYHJ3lc69Vs5Ddf9uUGGMYldX3WfMBEmh/9iFBDAaTCK
+        </item>
+    </string-array>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/marcellus</item>
+        <item>@font/marko_one</item>
+        <item>@font/modern_antiqua</item>
+        <item>@font/montaga</item>
+        <item>@font/oleo_script_bold</item>
+    </array>
+    <color name="biru_muda">#006DFF</color>
+    <color name="biru_muda2">#4F98FF</color>
+    <color name="biru_tua">#10069F</color>
+    <color name="black">#FF000000</color>
+    <color name="hijau">#00CF08</color>
+    <color name="merahmaron">#B2261E</color>
+    <color name="orange">#DA7E55</color>
+    <color name="warna_bg">#C6EBFE</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="EmailInvalid">E-mail tidak valid!</string>
+    <string name="History">History</string>
+    <string name="Home">Home</string>
+    <string name="PasswordKurangPanjang">Kata sandi kurang panjang!</string>
+    <string name="PasswordTerlaluPanjang">Kata sandi terlalu panjang!</string>
+    <string name="Passwordediteks">Password</string>
+    <string name="Profile">Profile</string>
+    <string name="Selesai">Selesai</string>
+    <string name="Tujuan">Tujuan</string>
+    <string name="UsernameInvalid">Username tidak valid!</string>
+    <string name="WelcomeMessage">Selamat Datang Di\nTujuan Temukan Jurusan Mu!</string>
+    <string name="YA">Ya!</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="a_za_z0_9_a_za_z0_9_a_za_z_2_4">^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,4}$</string>
+    <string name="account">Account</string>
+    <string name="apa_itu_tujuan">Apa itu TUJUAN?</string>
+    <string name="app_name">Capstone Product Fix</string>
+    <string name="belum_mempunyai_akun_daftar_disini">Belum mempunyai akun? <u><font color="#10069F">Daftar disini!</font></u></string>
+    <string name="berikutnya">Berikutnya</string>
+    <string name="bingun_pilih">Bingung Pilih Jurusan? \n<b><font color="#DA7E55">TUJUAN</font></b> Solusinya</string>
+    <string name="contentdescription">image</string>
+    <string name="daftarakunberhasil">DAFTAR AKUN BERHASIL!</string>
+    <string name="daftarakungagal">DAFTAR AKUN GAGAL!</string>
+    <string name="default_web_client_id" translatable="false">462593274765-hd5dp3t9r459j0lrov57mgaq2v00536o.apps.googleusercontent.com</string>
+    <string name="description">"Tujuan" adalah aplikasi mobile untuk siswa SMA yang membantu mereka menemukan jurusan sesuai minat dan bakat dengan kuis, informasi jurusan, dan sesi konseling. Dengan antarmuka yang ramah pengguna, aplikasi ini membimbing siswa membuat keputusan pendidikan yang terarah.</string>
+    <string name="e_mail_kosong">Form e-mail masih kosong!</string>
+    <string name="email">E-mail</string>
+    <string name="enter_password">Masukan kata sandi</string>
+    <string name="example_mainoutput">Hasil test anda :)</string>
+    <string name="example_output">Test Jurusan</string>
+    <string name="example_output2">Anda cocok dengan jurusan</string>
+    <string name="example_question">Apakah kamu suka bermain bola?</string>
+    <string name="exmp_email">rivalganteng@gmail.com</string>
+    <string name="exmp_gantipw">Ganti Password?</string>
+    <string name="exmp_username">\@rivalganteng</string>
+    <string name="finalresult">Teknik Mesin</string>
+    <string name="gagal_load">Gagal Memuat Data</string>
+    <string name="gcm_defaultSenderId" translatable="false">462593274765</string>
+    <string name="google_api_key" translatable="false">AIzaSyClgXMIUZSUeUsCP4LlGqs4vSPI5yyW36Y</string>
+    <string name="google_app_id" translatable="false">1:462593274765:android:5a076ca3c7fd29b38cc3c4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyClgXMIUZSUeUsCP4LlGqs4vSPI5yyW36Y</string>
+    <string name="google_storage_bucket" translatable="false">tujuan-ch2-ps309.appspot.com</string>
+    <string name="history_page">Lihat Riwayat Test Kamu!</string>
+    <string name="ingin_logout">Apakah anda ingin keluar?</string>
+    <string name="kembali">Kembali</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="login_succes">Masuk berhasil</string>
+    <string name="logingagal">GAGAL MASUK!</string>
+    <string name="logout">Logout</string>
+    <string name="lupapassword">Lupa Password ?</string>
+    <string name="mulai">Mulai</string>
+    <string name="newPasswordediteks">New Password</string>
+    <string name="or">OR</string>
+    <string name="project_id" translatable="false">tujuan-ch2-ps309</string>
+    <string name="question_back">Kembali ke halaman utama, jawaban akan di atur ulang</string>
+    <string name="radiobutton_empty">Jawaban tidak boleh kosong!</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="satu">1</string>
+    <string name="selesai">Balik ke halaman utama untuk melihat hasil anda!</string>
+    <string name="setting">Setting</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="tahapakhir">Anda sudah mencapai tahap akhir</string>
+    <string name="tetap">Lanjutkan</string>
+    <string name="time_exp">Tested on</string>
+    <string name="timeangka">12/05/2023</string>
+    <string name="username">Username</string>
+    <string name="yakin_question">Apakah jawaban sudah terisi dengan benar?</string>
+    <string name="yakin_question2">Jawaban tidak dapat diubah! harap cek kembali jawaban anda</string>
+    <style name="Base.Theme.CapstoneProductFix" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="colorPrimary">@color/biru_tua</item>
+    </style>
+    <style name="Theme.CapstoneProductFix" parent="Base.Theme.CapstoneProductFix"/>
+</resources>

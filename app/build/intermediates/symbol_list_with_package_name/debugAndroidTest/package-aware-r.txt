@@ -1,3 +1,0 @@
-com.dicoding.capstoneproductfix.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme

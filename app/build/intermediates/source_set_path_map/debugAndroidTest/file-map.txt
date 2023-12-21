@@ -1,6 +1,0 @@
-com.dicoding.capstoneproductfix.test.app-annotation-experimental-1.3.0-0 C:\Users\rival\.gradle\caches\transforms-3\913604e8c17ec63679e981dca099163c\transformed\annotation-experimental-1.3.0\res
-com.dicoding.capstoneproductfix.test.app-core-1.5.0-1 C:\Users\rival\.gradle\caches\transforms-3\ddf277019d9cdd1aa5f253fb1bd2fa7c\transformed\core-1.5.0\res
-com.dicoding.capstoneproductfix.test.app-androidTest-2 D:\Project\Android Studio\Submission\Capstone Product\CapstoneProductFix\app\build\generated\res\resValues\androidTest\debug
-com.dicoding.capstoneproductfix.test.app-mergeDebugAndroidTestResources-3 D:\Project\Android Studio\Submission\Capstone Product\CapstoneProductFix\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.dicoding.capstoneproductfix.test.app-mergeDebugAndroidTestResources-4 D:\Project\Android Studio\Submission\Capstone Product\CapstoneProductFix\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.dicoding.capstoneproductfix.test.app-merged_res-5 D:\Project\Android Studio\Submission\Capstone Product\CapstoneProductFix\app\build\intermediates\merged_res\debugAndroidTest

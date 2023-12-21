@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="biru_tua">#10069F</color>
+    <color name="biru_muda2">#4F98FF</color>
+    <color name="biru_muda">#006DFF</color>
+    <color name="warna_bg">#C6EBFE</color>
+    <color name="orange">#DA7E55</color>
+    <color name="merahmaron">#B2261E</color>
+    <color name="hijau">#00CF08</color>
+</resources>

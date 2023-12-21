@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">462593274765-hd5dp3t9r459j0lrov57mgaq2v00536o.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">462593274765</string>
+    <string name="google_api_key" translatable="false">AIzaSyClgXMIUZSUeUsCP4LlGqs4vSPI5yyW36Y</string>
+    <string name="google_app_id" translatable="false">1:462593274765:android:5a076ca3c7fd29b38cc3c4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyClgXMIUZSUeUsCP4LlGqs4vSPI5yyW36Y</string>
+    <string name="google_storage_bucket" translatable="false">tujuan-ch2-ps309.appspot.com</string>
+    <string name="project_id" translatable="false">tujuan-ch2-ps309</string>
+</resources>

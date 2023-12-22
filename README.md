@@ -1,6 +1,6 @@
 <h1 align="center">TUJUAN</h1>
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/taufiqurahman21/TUJUAN-CH2-PS309/blob/main/assets/TUJUAN%20LOGO.png"/>
 </p> 
 
 ## Bangkit Capstone Project 2023

@@ -25,9 +25,22 @@ We raise this issue because there are still many high school students who are st
 | Rival Septian Jeflin Manti    | A296BSY2976    | Mobile Development    | Universitas Pembangunan Nasional Veteran Jawa Timur    |
 | Muhammad    | A134BSY2352    | Mobile Development    | Politeknik Negeri Sriwijaya    |
 
+
+## Machine Learning
+Building models with Neural Networks. Using pandas and stored in a DataFrame, The dataset is split into training and testing sets using functions from scikit-learn and preprocess the data using One-hot encoding to convert categorical tables into a numerical format. 
+<img src="https://github.com/taufiqurahman21/TUJUAN-CH2-PS309/blob/main/assets/26.png"/>
+
+## Cloud Computing
+Creating API using NodeJS for features such as Login and History, then deployed in App Engine. Flask API also used for ML Model to deploy it in Cloud Run.
+<img src="https://github.com/taufiqurahman21/TUJUAN-CH2-PS309/blob/main/assets/21.png"/>
+
+## Mobile Development
+Designing the interface using Figma and building the application using Android Studio with the Kotlin programming language, utilizing an API retrieval process created by Cloud Computing.
+<img src="https://github.com/taufiqurahman21/TUJUAN-CH2-PS309/blob/main/assets/14.png"/>
+
 ## Repository Branches
 
-In our project is divided into five branches:
+Our project divided into five branches:
   - [Machine Learning](https://github.com/taufiqurahman21/TUJUAN-CH2-PS309/tree/Machine-Learning)
   - [Cloud Computing 1](https://github.com/taufiqurahman21/TUJUAN-CH2-PS309/tree/cloud-computing)
   - [Cloud Computing 2](https://github.com/taufiqurahman21/TUJUAN-CH2-PS309/tree/cloud-computing-2)
